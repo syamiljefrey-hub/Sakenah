@@ -1,3 +1,3 @@
 :HL["/Sakenah/_next/static/chunks/2ca4envxmlit9.css","style"]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"BsRybMPbmB48TsqtsUDyN","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"HABPmVDvRdU9LV3JaCNh0","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
